@@ -1,0 +1,29 @@
+$c1:red;
+$c2:blue;
+
+p{
+	color:red;
+}
+
+.div1{
+	ul{
+		color:$c1;
+	}
+
+	li{
+		color:$c1;
+	}
+}
+.div2{
+	ul{
+		color:$c2;
+	}
+
+	li{
+		color:$c2;
+	}
+}
+
+
+// single line
+/* multiple line */

@@ -1,0 +1,21 @@
+p {
+  color: red;
+}
+
+.div1 ul {
+  color: red;
+}
+.div1 li {
+  color: red;
+}
+
+.div2 ul {
+  color: blue;
+}
+.div2 li {
+  color: blue;
+}
+
+/* multiple line */
+
+/*# sourceMappingURL=style.css.map */
