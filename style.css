@@ -1,11 +1,15 @@
 /* Author: Mochammad Ihza Rizky Karim */
 p {
+  position: static;
+  margin: auto;
   font-family: helvetica;
   color: red;
   background-color: gray;
 }
 
 .div1 {
+  font-size: 16px;
+  margin: auto;
   font-family: helvetica;
   background-color: gray;
   border: 2px solid black;
@@ -15,17 +19,21 @@ p {
   color: red;
 }
 .div1 li {
+  display: inline-block;
   color: blue;
 }
 
 .div2 {
+  font-size: 14px;
   font-family: helvetica;
+  margin: auto;
 }
 .div2 ul {
   list-style-type: square;
   color: blue;
 }
 .div2 li {
+  display: inline-block;
   color: blue;
 }
 
